@@ -1,5 +1,6 @@
 # publications
 在学期间发表的主要学术成果
+
 [1] Hui Yan, Weidong Bao, Xiaoqing Li, Xiaomin Zhu, Yaohong Zhang, Ji Wang, Ling Liu. Fault-Tolerant Scheduling of Heterogeneous UAVs for Data Collection of IoT Applications [J]. IEEE Internet of Things Journal,2023. (SCI收录, JCR一区, 中科院一区Top期刊, IF: 10.6)
 
 [2] Hui Yan, Weidong Bao, Xiaomin Zhu, Ji Wang, Guanlin Wu, Jiang Cao. Fairness-aware data offloading of IoT applications enabled by heterogeneous UAVs[J]. Internet of Things, 2023, 22: 100745. (SCI 收录, JCR一区, IF: 5.9)
